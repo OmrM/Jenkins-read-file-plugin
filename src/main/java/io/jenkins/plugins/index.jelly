@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler" xmlns:d="jelly:define">
+    <st:documentation>
+        The main configuration screen for the File Type Detection plugin.
+    </st:documentation>
+    <st:include page="config.jelly"/>
+</j:jelly>
